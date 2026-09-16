@@ -23,3 +23,7 @@ A simple Python cybersecurity project that evaluates password strength based on 
 
 ```bash
 python3 password_checker.py
+
+## Screenshot
+
+![Password Strength Checker](screenshot.png)
